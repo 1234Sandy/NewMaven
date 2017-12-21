@@ -26,7 +26,6 @@ public static WebDriver driver;
 		 System.out.println("Welcome to hello world");
 		 System.out.println("Welcome to hello world");
 		 System.out.println("Welcome to hello world");
-		 System.out.println("My new branch sandy");
 		 System.out.println("My 2nd commit on branch sandy");
 	}
 	
